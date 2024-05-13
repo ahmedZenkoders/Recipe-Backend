@@ -1,0 +1,39 @@
+[
+  {
+    "id": 2,
+    "name": "Tikka",
+    "ingredients": [
+      "Chicken",
+      "Masala"
+    ],
+    "cookingTime": "1 hour"
+  },
+  {
+    "id": 3,
+    "name": "Zinger",
+    "ingredients": [
+      "Bun",
+      "Patty",
+      "Lettuce"
+    ],
+    "cookingTime": "30 minutes"
+  },
+  {
+    "id": 4,
+    "name": "Steak",
+    "ingredients": [
+      "Beef",
+      "Garlic",
+      "Salt"
+    ],
+    "cookingTime": "1 hour 30 minutes"
+  },
+  {
+    "name": "Punjabi",
+    "ingredients": [
+      "Chicken",
+      "Masala"
+    ],
+    "cookingTime": "1 hour"
+  }
+]
